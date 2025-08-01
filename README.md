@@ -6,7 +6,9 @@
 
 I love playing games when I was a kid but now I am starting to like coding in HTML and CSS
 
-Skills: HTML / CSS
+## Skills
+* 🖥️HTML & CSS
+* 🐍Python
 
 - 🔭 I’m currently working on coding app 
 - 🌱 I’m currently learning HTML 

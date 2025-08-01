@@ -9,7 +9,7 @@ I love playing games when I was a kid but now I am starting to like coding in HT
 ## Skills
 * 🖥️HTML & CSS
 * 🐍Python
-
+---
 - 🔭 I’m currently working on coding app 
 - 🌱 I’m currently learning HTML 
 - 👯 I’m looking to collaborate on Web Projects 
